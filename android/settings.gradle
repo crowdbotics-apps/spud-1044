@@ -1,0 +1,3 @@
+rootProject.name = 'spud_1044'
+
+include ':app'
